@@ -1,0 +1,10 @@
+UP: /ext/subghz/_import/Up.sub
+DOWN: /ext/subghz/_import/Down.sub
+LEFT: /ext/subghz/_import/Left.sub
+RIGHT: /ext/subghz/_import/Right.sub
+OK: /ext/subghz/_import/Ok.sub
+ULABEL: Up Label
+DLABEL: Down Label
+LLABEL: Left Label
+RLABEL: Right Label
+OKLABEL: Ok Label
