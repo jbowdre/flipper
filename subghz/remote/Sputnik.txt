@@ -1,0 +1,10 @@
+UP: /ext/subghz/Sputnik_Fan_Med.sub
+DOWN: /ext/subghz/Sputnik_Fan_Off.sub
+LEFT: /ext/subghz/Sputnik_Fan_Low.sub
+RIGHT: /ext/subghz/Sputnik_Fan_Hi.sub
+OK: /ext/subghz/Sputnik_Lite_Bot.sub
+ULABEL: Fan Med
+DLABEL: Fan Off
+LLABEL: Fan Low
+RLABEL: Fan Right
+OKLABEL: Light
