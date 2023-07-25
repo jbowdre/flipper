@@ -1,0 +1,10 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/Patio_Fan_On.sub
+DOWN: /ext/subghz/Patio_Fan_Off.sub
+LEFT: /ext/subghz/Patio_Lite_Off.sub
+RIGHT: /ext/subghz/Patio_Lite_On.sub
+ULABEL: Fan_On
+DLABEL: Fan_Off
+LLABEL: Lite_Off
+RLABEL: Lite_On
