@@ -1,0 +1,12 @@
+Filetype: Flipper SubRem Map file
+Version: 1
+UP: /ext/subghz/BR_Fan_Med.sub
+DOWN: /ext/subghz/BR_Fan_Off.sub
+LEFT: /ext/subghz/BR_Fan_Low.sub
+RIGHT: /ext/subghz/BR_Fan_Hi.sub
+OK: /ext/subghz/BR_Lite.sub
+ULABEL: Fan_Med
+DLABEL: Fan_Off
+LLABEL: Fan_Low
+RLABEL: Fan_Hi
+OKLABEL: Light
