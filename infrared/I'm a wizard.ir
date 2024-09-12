@@ -1,0 +1,50 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Incendio
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9206 4446 602 533 603 532 604 532 604 532 604 532 604 532 604 532 604 532 604 1639 602 1639 602 1640 600 1641 624 1617 623 1618 624 1618 622 1618 623 1618 622 513 622 1618 598 538 622 513 622 513 622 1619 622 514 622 513 623 1643 598 514 623 1643 598 1620 622 1643 599 538 599 1644 598 39736 9166 2188 624 95902 9131 2212 600 95933 9128 2212 600
+# 
+name: Extinguo
+type: parsed
+protocol: NEC
+address: 00 00 00 00
+command: 47 00 00 00
+# 
+name: Fuego
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 00 FF 00 00
+# 
+name: Exso
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 02 FD 00 00
+# 
+name: Flickero
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 0C F3 00 00
+# 
+name: Steadyo
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 0E F1 00 00
+# 
+name: Less
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 10 EF 00 00
+# 
+name: More
+type: parsed
+protocol: NECext
+address: 08 B7 00 00
+command: 12 ED 00 00
