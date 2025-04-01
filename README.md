@@ -1,5 +1,8 @@
 # John's Flipper Zero Stuff
 
+> [!WARNING]
+> This project has [moved](https://git.vim.wtf/wq/flipper).
+
 My collection of Flipper signals, codes, payloads, playlists, and remotes.
 
 Most of these files were shamelessly borrowed from [UberGuidoZ's massive repo](https://github.com/UberGuidoZ/Flipper), which is a great one-stop-shop for all things Flipper. But I wanted a trimmed-down set of folders that were ready for direct use on a Flipper device, without all the extra resources that just take up space on a Flipper's SD card.
